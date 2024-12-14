@@ -1,0 +1,17 @@
+#BlueJ class context
+comment0.target=ListaCDE
+comment1.params=
+comment1.target=ListaCDE()
+comment2.params=
+comment2.target=boolean\ esVacia()
+comment3.params=dato
+comment3.target=void\ insertar(java.lang.Object)
+comment4.params=pos
+comment4.target=java.lang.Object\ eliminar(int)
+comment5.params=pos
+comment5.target=java.lang.Object\ acceder(int)
+comment6.params=
+comment6.target=int\ longitud()
+comment7.params=q
+comment7.target=int\ contar(NodoDE)
+numComments=8
